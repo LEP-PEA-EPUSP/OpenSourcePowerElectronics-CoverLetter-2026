@@ -13,7 +13,12 @@ The 2026 release brings together the main inverter assembly, its processing and 
 - [OpenSourcePowerElectronics-HW-AdapterBoard-2026](https://github.com/LEP-PEA-EPUSP/OpenSourcePowerElectronics-HW-AdapterBoard-2026) - adapter board manuals, schematics, layouts, and supporting files
 - [OpenSourcePowerElectronics-HW-LoadBoard-2026](https://github.com/LEP-PEA-EPUSP/OpenSourcePowerElectronics-HW-LoadBoard-2026) - AC and DC load board documentation and layouts
 - [OpenSourcePowerElectronics-SW-Inverter-UserInterface-2021](https://github.com/LEP-PEA-EPUSP/OpenSourcePowerElectronics-SW-Inverter-UserInterface-2021) - Software for HMI, updated in 2023
+- [OpenSourcePowerElectronics-SW-PWM-2021](https://github.com/LEP-PEA-EPUSP/OpenSourcePowerElectronics-SW-PWM-2021) - Repository for microcontroller code destined for operation of PWM converters
 
 ## Purpose
 
 This cover letter serves as a landing page for the 2026 platform and provides a single starting point for readers to navigate the individual repositories.
+
+Users are invited to freely use and contribute to the development of the platform.
+
+License: CC-BY-NC-SA 4.0
