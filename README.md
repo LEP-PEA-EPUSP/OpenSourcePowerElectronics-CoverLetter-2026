@@ -21,4 +21,25 @@ This cover letter serves as a landing page for the 2026 platform and provides a 
 
 Users are invited to freely use and contribute to the development of the platform.
 
-License: CC-BY-NC-SA 4.0
+## License
+
+If not otherwise noted, the following licenses apply:
+
+Hardware: CERN-OHL-S v2
+Software: GPLv3
+Documentation: CC BY-SA-NC 4.0
+
+## Conversion
+
+It is important to note that the hardware project was initiated in 2015, and several individual collaborators have been responsible for designing different boards during the last decade. Such collaborators have used different tools in their work, which were most fit at the time being (considering their knowledge and existing software features).
+
+Nowadays, KiCad has significantly evolved and finds widespread adoption, and is adopted for all recent developments.
+
+Conversion or redesign in KiCad is scheduled to be gradually done, and in the meantime, external contributors can refer to the following:
+
+KiCad Importers: https://docs.kicad.org/10.0/en/kicad/kicad.html#importing_a_project_from_another_eda_tool
+
+Altium Student License: https://www.altium.com/education/students
+
+Work in Progress: https://forum.kicad.info/t/importer-from-proteus-work-in-progress/71489
+
